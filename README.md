@@ -2,7 +2,8 @@
     Lista de tarefas(To-Do List)
 </h1>
 
-<img alt="Imagem do projeto" src="./assets/background.png" align="center">
+![image](https://github.com/LucasVianaSampaio/toDo-List/assets/111457772/9f7533a5-567c-486d-82b8-145c58a2fd2f)
+
 
 <h1 align="center">
     <a href="https://lucasvianasampaio.github.io/toDo-List/">Veja o site</a>
@@ -18,4 +19,4 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 📝Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]("") para mais detalhes
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/LucasVianaSampaio/toDo-List/blob/main/LICENSE">LICENSE</a> para mais detalhes
