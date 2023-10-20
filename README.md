@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Projeto realizado com o intúito de ajudar na organização de afazeres. <br/>
+Projeto realizado com o intuito de ajudar na organização de afazeres e rotinas. <br/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Projeto realizado com o intúito de ajudar na organização de afazeres. <br/>
 </h1>
 
 ## 📕Sobre
-O projeto consiste em uma lista de tarefas que podem ser adicionadas pelo próprio usurário. Existe a possibilidade de marcar uma tarefa criada como "concluída" e excluir uma tarefa quando desejado
+O projeto consiste em uma lista de tarefas que podem ser adicionadas pelo próprio usurário. Essa lista possibilita uma rotina mais organizada ao adicionar tarefas para serem feitas. Com as tarefas adicionadas, é possível marcar uma tarefa criada como "concluída" e excluir uma tarefa quando desejado.
 
 ## 💻Tecnologias
 Projeto desenvolvido com as seguintes tecnologias: 
